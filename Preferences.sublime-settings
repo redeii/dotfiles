@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Color Scheme - Chromodynamics/Chromodynamics.tmTheme",
+	"font_face": "Roboto Mono",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets_angle": true,
+	"match_brackets_content": false,
+	"material_theme_accent_graphite": false,
+	"material_theme_compact_sidebar": true,
+	"open_files_in_new_window": false,
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_full_path": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
